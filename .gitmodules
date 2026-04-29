@@ -1,6 +1,6 @@
 [submodule "TrafficSIm"]
 	path = TrafficSIm
-	url = git@github.com:nucky1216/TrafficSim.git
+	url = git@github.com:nucky1216/MassTraffic.git
 [submodule "ZoneGraph"]
 	path = ZoneGraph
 	url = git@github.com:nucky1216/ZoneGraph.git
