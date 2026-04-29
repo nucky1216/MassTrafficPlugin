@@ -1,6 +1,6 @@
 [submodule "TrafficSIm"]
 	path = TrafficSIm
-	url = git@git.light-field.tech:ue4development/trafficsim.git
+	url = git@github.com:nucky1216/TrafficSim.git
 [submodule "ZoneGraph"]
 	path = ZoneGraph
-	url = git@git.light-field.tech:ue4development/zonegraph.git
+	url = git@github.com:nucky1216/ZoneGraph.git
